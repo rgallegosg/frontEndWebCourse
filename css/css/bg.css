@@ -1,0 +1,25 @@
+/* body{
+    background-image:url("../img/bg1.jpg");
+    background-repeat: repeat-x;
+} */
+body {
+    background: url("../img/bgcat.jpeg") no-repeat center center fixed;
+    background-size: cover;
+}
+div{
+    background-color: #27d9e7;
+}
+i{
+    color: red;
+}
+h1{
+    color: white;
+    text-align: center;
+
+    width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 300px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 3em;
+}
